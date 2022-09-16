@@ -7,6 +7,7 @@ Repository to document the work done during Goldman Sachs Virtual Experience
 ## Summary of my Solution
 
 |S.No| Username | Hash | Cracked Password | Type of Encryption |
+|:---|:---------|:-----|:-----------------|:-------------------|
 |1|experthead|e10adc3949ba59abbe56e057f20f883e|123456|MD4|
 |2|popularkiya7|e99a18c428cb38d5f260853678922e03|abc123|MD5|
 |3|ortspoon|d8578edf8458ce06fbc5bb76a58c5ca4|qwerty|MD5|
