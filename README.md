@@ -78,3 +78,5 @@ while creating a password.
 - Using SHA-3, bycrypt, TDEA etc. more advanced encryption algorithms make it difficult to decrypt
 hash also spreading awareness among users to follow these policies to keep their passwords
 strong and safe.
+
+### [Certificate of Completion](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_3K4Fm5xXrwTSsDFCh_1663324523138_completion_certificate.pdf)
