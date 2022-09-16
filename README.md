@@ -2,7 +2,7 @@
 ## Task
 ### Crack the passwords from the leaked data from a database given in file dump.txt ->
 
-#### Leaked Database containing username and passwords in form of hash
+Leaked Database containing username and passwords in form of hash
 
 
 | Username | hash value |
