@@ -29,9 +29,9 @@
 
 
 ### Tools used in cracking the password ->
-- [https://hashcat.net/hashcat/](HashCat)
-- [https://decode.fr](decode.fr)
-- [https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt?resource=download](rockyou.txt word collection)
+- [HashCat](https://hashcat.net/hashcat/)
+- [decode.fr](https://decode.fr)
+- [rockyou.txt word collection](https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt?resource=download)
 
 
 ### Summary of my Solution
